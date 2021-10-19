@@ -6,6 +6,7 @@
 }
 /* CSS som gäller för allt */
 .wrapper{
+    background-image: url("https://place-puppy.com/public-images/index-page/image4/410x280-lg.jpg");
     min-height: 100vh;
     display: grid;
     grid-template-columns: auto 10rem;
